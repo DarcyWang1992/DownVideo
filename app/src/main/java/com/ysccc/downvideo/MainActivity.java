@@ -122,6 +122,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    /***
+     * 下载MP4
+     */
     private void downMp4() {
         final ProgressDialog pd; // 进度条对话框
         pd = new ProgressDialog(this);
