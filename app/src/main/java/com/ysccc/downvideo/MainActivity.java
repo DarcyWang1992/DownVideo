@@ -96,10 +96,9 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
-
-
-
-
+    /***
+     * 初始化权限信息
+     */
     private void initPermission() {
 
 // 先判断是否有权限。
